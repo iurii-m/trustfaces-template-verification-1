@@ -3,7 +3,7 @@
 The dataset and code for facial biometric template creation for the paper.
 
 "Biometric System for Mobile Validation of ID And Travel
-Documents" Iurii Medvedev, Nuno Gon?alves, Leandro Cruz
+Documents" Iurii Medvedev, Nuno Gonçalves, Leandro Cruz
 
 which was presented on the conference BIOSIG 2020
 
@@ -12,7 +12,7 @@ https://biosig.de/
 ## Dataset
 The origin of the dataset is
 
-pics.stir.ac.uk.
+http://pics.stir.ac.uk/
 
 The subset of the images from this dataset was printed, captured by smartphone and rectified automatically.
 
