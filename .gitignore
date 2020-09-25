@@ -1,0 +1,24 @@
+**/debug
+**/release
+**/.qmake.stash
+**/Makefile
+**/Makefile.Debug
+**/Makefile.Release
+*.pro.user
+
+# opencv configuring
+opencv.pri
+
+#additional materials
+Train_model
+Plot_ROC
+Extract_Training_Pairs_Data
+dataset/testinputfaces1
+dataset/testoriginalfaces1
+data/models_test_responses
+data/models
+data/data_train_test_pairs
+data/data_train_test_pairs1
+data/data_train_test_pairs2
+
+
