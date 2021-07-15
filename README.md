@@ -38,7 +38,7 @@ If you find the result of this work usefull in your research, please consider to
 ```
 
 @Article{app11136134,
-AUTHOR = {Medvedev, Iurii and Shadmand, Farhad and Cruz, Leandro and Gon?alves, Nuno},
+AUTHOR = {Medvedev, Iurii and Shadmand, Farhad and Cruz, Leandro and Gonçalves, Nuno},
 TITLE = {Towards Facial Biometrics for ID Document Validation in Mobile Devices},
 JOURNAL = {Applied Sciences},
 VOLUME = {11},
@@ -51,7 +51,7 @@ DOI = {10.3390/app11136134}
 }
 
 @INPROCEEDINGS{9211041,
-author={Medvedev, Iurii and Gon?alves, Nuno and Cruz, Leandro},
+author={Medvedev, Iurii and Gonçalves, Nuno and Cruz, Leandro},
 booktitle={2020 International Conference of the Biometrics Special Interest Group (BIOSIG)}, 
 title={Biometric System for Mobile Validation of ID And Travel Documents}, 
 year={2020},
