@@ -12,7 +12,7 @@ https://biosig.de/
 ## Dataset
 The origin of the dataset is
 
-pics.stir.ac.uk.
+http://pics.stir.ac.uk/
 
 The subset of the images from this dataset was printed, captured by smartphone and rectified automatically.
 
@@ -31,7 +31,6 @@ https://incm.pt/
 And Institute of Systems and Robotics of University of Coimbra (ISR UC)
 
 https://www.isr.uc.pt/
-
 
 ##  Citation
 If you find the result of this work usefull in your research, please consider to cite the following papers:
@@ -62,3 +61,4 @@ pages={1-5},
 doi={}}
 
 ```
+
